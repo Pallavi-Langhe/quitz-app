@@ -1,0 +1,92 @@
+[
+  {
+    "question": "what is the largest planet in our solor system?",
+    "answerOptions": [
+      { "text": "Saturn", "isCorrect": false },
+      { "text": "Mars", "isCorrect": false },
+      { "text": "Earth", "isCorrect": false },
+      { "text": "Jupitor", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "which is the largest Country on Map?",
+    "answerOptions": [
+      { "text": "India", "isCorrect": false },
+      { "text": "US", "isCorrect": false },
+      { "text": "China", "isCorrect": false },
+      { "text": "Russia", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "what is marvals first movie?",
+    "answerOptions": [
+      { "text": "Spider Man", "isCorrect": false },
+      { "text": "Avengers", "isCorrect": false },
+      { "text": "Iron Man", "isCorrect": true },
+      { "text": "Hulk", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "what is the largest planet in our solor system?",
+    "answerOptions": [
+      { "text": "Saturn", "isCorrect": false },
+      { "text": "Mars", "isCorrect": false },
+      { "text": "Earth", "isCorrect": false },
+      { "text": "Jupitor", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "what is the name of Indias first prie minister?",
+    "answerOptions": [
+      { "text": "Jawaharlal Nehru", "isCorrect": true },
+      { "text": "Indira Gandhi", "isCorrect": false },
+      { "text": "Atal Bihari Vajpayee", "isCorrect": false },
+      { "text": "Gulzarilal Nanda", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the most popular social media platform?",
+    "answerOptions": [
+      { "text": "Instagram", "isCorrect": true },
+      { "text": "Facebook", "isCorrect": false },
+      { "text": "Twitter", "isCorrect": false },
+      { "text": "YouTube", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answerOptions": [
+      { "text": "Euro", "isCorrect": false },
+      { "text": "US Dollar", "isCorrect": false },
+      { "text": "Japanese Yen", "isCorrect": true },
+      { "text": "Chinese Yuan", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the world's largest search engine?",
+    "answerOptions": [
+      { "text": "Google", "isCorrect": true },
+      { "text": "Bing", "isCorrect": false },
+      { "text": "Yahoo", "isCorrect": false },
+      { "text": "DuckDuckGo", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answerOptions": [
+      { "text": "Michelangelo", "isCorrect": false },
+      { "text": "Leonardo da Vinci", "isCorrect": true },
+      { "text": "Sandro Botticelli", "isCorrect": false },
+      { "text": "Raphael", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "answerOptions": [
+      { "text": "H2O", "isCorrect": true },
+      { "text": "CO2", "isCorrect": false },
+      { "text": "NaCl", "isCorrect": false },
+      { "text": "NH3", "isCorrect": false }
+    ]
+  }
+]
